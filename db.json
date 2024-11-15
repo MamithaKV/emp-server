@@ -1,0 +1,11 @@
+{
+  "employees": [
+    {
+      "id": "ebbf",
+      "empID": "1yh",
+      "username": "mamitha",
+      "email": "kv@gmail.com",
+      "empStatus": "Active"
+    }
+  ]
+}
